@@ -33,6 +33,8 @@ The code looks similar to this:
 @end
 ~~~~
 
+## Git Submodule
+
 The open-dis-objectivec repo uses a submodule git repository that has the XML file description of the protocol
 messages, DISDescription. This lets the XML file be shared across multiple language
 implementations. If you want to generate source code, as opposed to just
